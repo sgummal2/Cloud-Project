@@ -1,5 +1,5 @@
 # Cloud-Project
-Luxury Hotels &amp; Resorts company migrating applications and data to the cloud.
+Luxury Hotels &amp; Resorts company migrating their "on-premises" application and database to a Multi-Cloud Architecture using AWS and GCP.
 
 ## Solution Architecture:
 
