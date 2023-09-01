@@ -1,9 +1,10 @@
-# Multi-Cloud Project
+# Multi-Cloud Migration Project
 Luxury Hotels &amp; Resorts company migrating their "on-premises" application and database to a Multi-Cloud Architecture using AWS and GCP.
 
 ## Solution Architecture:
 
-<img width="491" alt="Architecture1" src="https://github.com/sgummal2/Cloud-Project/assets/140002588/7b5ed54e-9c0a-4cc4-b50c-77265c4f0be7">
+<img width="604" alt="Screenshot 2023-08-31 165439" src="https://github.com/sgummal2/Cloud-Project/assets/140002588/9cdd7d3c-122d-46aa-98ec-b81794a5d9d5">
+
 
 
 ## Steps to implement Hands-on Project: 
